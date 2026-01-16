@@ -1,0 +1,13 @@
+{
+  "name": "@pnpmtest/package-a",
+  "version": "1.0.0",
+  "description": "Sample package A",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'Building package-a'",
+    "test": "echo 'Testing package-a'"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

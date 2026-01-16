@@ -1,0 +1,17 @@
+{
+  "name": "pnpmtest",
+  "version": "1.0.0",
+  "description": "A sample repository for testing pnpm workspaces",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "build": "pnpm -r build"
+  },
+  "keywords": [
+    "pnpm",
+    "workspace",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC"
+}
